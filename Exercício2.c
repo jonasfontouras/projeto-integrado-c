@@ -114,8 +114,5 @@ int main(){
     {
         printf("\nnao e isomorfa");
     }
-    
-    
-    
 
 }
